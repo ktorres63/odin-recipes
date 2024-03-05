@@ -1,0 +1,32 @@
+h2{
+    margin: 0;
+}
+.main-title{
+    text-align: center;
+}
+.recipes-container{
+    background-color: rgb(233, 230, 230);
+    width: 300px;
+    margin: 0 auto ;
+}
+.recipe-title{
+    text-align: center;
+}
+img{ 
+    display: block;
+    height: 300px;
+    width: auto;
+    margin: 0 auto;
+}
+.recipe-description, .recipe-ingredients, .recipe-steps{
+    background-color: rgb(170, 212, 198);
+    padding: 8px;
+    margin: 8px 16px;
+}
+.home{
+    background-color: rgb(199, 155, 240);
+    width: 120px;
+    text-align: center;
+    
+    margin: 0 auto;
+}
